@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_mus_title",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":212.7151,
+  "name":"snd_mus_title",
+  "parent":{
+    "name":"Musica",
+    "path":"folders/Musica.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_mus_title.mp3",
+  "type":0,
+  "volume":0.66,
+}
